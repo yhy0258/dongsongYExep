@@ -1,0 +1,4 @@
+﻿  3.3.cpp
+C:\Users\95112\Documents\c++\3.3\3.3.cpp(27,10): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+  3.3.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+  3.3.vcxproj -> C:\Users\95112\Documents\c++\3.3\Debug\3.3.exe

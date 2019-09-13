@@ -1,0 +1,13 @@
+﻿  1.0.cpp
+C:\Users\95112\Documents\c++\1.0\1.0.cpp(3,1): warning C4005:  “__CLR_VER”: 宏重定义
+C:\Users\95112\Documents\c++\1.0\1.0.cpp(3,1): warning C4005: C:\Users\95112\Documents\c++\1.0\pch.cpp: note: 参见“__CLR_VER”的前一个定义
+C:\Users\95112\Documents\c++\1.0\1.0.cpp(3,1): warning C4651:  为预编译头，而非为当前编译指定“/D__CLR_VER=40703416”
+C:\Users\95112\Documents\c++\1.0\1.0.cpp(10,2): error C2059:  语法错误:“try”
+C:\Users\95112\Documents\c++\1.0\1.0.cpp(11,2): error C2334:  “{”的前面有意外标记；跳过明显的函数体
+C:\Users\95112\Documents\c++\1.0\1.0.cpp(14,2): error C2318:  没有与该 catch 处理程序关联的 Try 块
+C:\Users\95112\Documents\c++\1.0\1.0.cpp(14,20): error C2039:  “exception”: 不是“std”的成员
+C:\Users\95112\Documents\c++\1.0\predefined C++ types (compiler internal)(261): message :  参见“std”的声明
+C:\Users\95112\Documents\c++\1.0\1.0.cpp(15,2): error C2334:  “{”的前面有意外标记；跳过明显的函数体
+C:\Users\95112\Documents\c++\1.0\1.0.cpp(19,3): error C3417:  “MyClass::~MyClass(void)”: 值类型不能包含用户定义的特殊成员函数
+C:\Users\95112\Documents\c++\1.0\1.0.cpp(26,1): error C2509:  “{ctor}”: 成员函数没有在“MyClass”中声明
+C:\Users\95112\Documents\c++\1.0\1.0.cpp(7): message :  参见“MyClass”的声明
